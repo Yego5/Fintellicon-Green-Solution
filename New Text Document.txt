@@ -1,6 +1,0 @@
-https://www.altaiconsulting.com/?gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoKF2u6rRH3ENBk6RQ6acWvfgW7tkAgU12gypIlJmu_elYcplA1VBUBoCv-IQAvD_BwE
-
-
-
-alx-react/0x08-react_redux_reducer_selector/task_0/dashboard/src
-/assets/ (insert photos)
