@@ -1,0 +1,50 @@
+}
+.header img{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: -8px;
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
+    
+    .hero img {
+        max-height: 400px;
+        object-fit: cover;
+    }
+    
+    .content h2 {
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+    
+    .content h5 {
+        margin-top: 15px;
+        font-size: 1.1rem;
+    }
+    
+    footer {
+        background-color: #f8f9fa;
+        color: #6c757d;
+        padding: 10px 0;
+    }
+    body {
+        font-family: Arial, sans-serif;
+    }
+    
+    .card h5 {
+        font-weight: bold;
+    }
+    
+    .card p {
+        font-size: 0.9rem;
+    }
+    
+    footer {
+        background-color: #343a40;
+        color: white;
+        padding: 10px 0;
+    }
+    
